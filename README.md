@@ -5,7 +5,7 @@ This analysis uses HTML to present an overview on UFO sightings and JavaScript t
 
 ## Results 
 
-This webpage can be used to filter through different criteria based on user input. The user has five different options for filters: date, city, state, country, and shape. If a user wanted the results for all the UFO sightings on January 1st in the shape of a triangle, the user would input 1/1/2010 in the enter date filter search and triangle in the enter shape in the filter search and 4 results would be returned. 
+This webpage can be used to filter through different criteria based on user input. The user has five different options for filters: date, city, state, country, and shape. If a user wanted the results for all the UFO sightings on January 1st, in the shape of a triangle, in the city of el cajon the user would input 1/1/2010 in the enter date filter search and triangle in the enter shape filter search, and el cajon in the enter city filter search, and 2 [results](https://github.com/AmairaniR/UFOs/blob/main/static/images/filter_search.png) would be returned. 
 
 ## Summary
 
